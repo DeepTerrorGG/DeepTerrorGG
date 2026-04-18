@@ -1,18 +1,19 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hi,%20I'm%20DeepTerrorGG&fontSize=45&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Security%20Researcher%20%7C%20Full-Stack%20Developer&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hi,%20I'm%20DeepTerrorGG&fontSize=45&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20Architect%20%7C%20Security%20Researcher%20%7C%20Full-Stack%20Developer&descAlignY=55&descAlign=50" />
 </div>
 
-<h3 align="center">Building intelligent systems at the intersection of Artificial Intelligence, Cybersecurity, and Modern Web.</h3>
+<h3 align="center">Building intelligent systems at the intersection of Artificial Intelligence, Cybersecurity, and High-Performance Computing.</h3>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <br />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
@@ -22,10 +23,10 @@
 
 ## 🚀 About Me
 
-I specialize in creating robust, AI-powered applications, enterprise-grade machine learning pipelines, and advanced cybersecurity tools. Whether it's training LLMs, conducting memory forensics, or building sleek web interfaces, I focus on performance, security, and exceptional user experiences.
+I specialize in creating robust, AI-powered applications, enterprise-grade machine learning pipelines, and advanced cybersecurity tools. Whether it's training LLMs, conducting memory forensics, building sleek web interfaces, or **engineering bare-metal inference engines running on C++20 and CUDA**, I focus on performance, security, and exceptional user experiences.
 
 ### 💼 Professional Journey
-As the founder of **DeepTerrorGG Tech Services**, I bring **5+ years of freelance experience** delivering high-quality, custom development solutions. My work spans across various domains, allowing me to adapt rapidly to new technologies and client needs.
+As the founder of **DeepTerrorGG Tech Services**, I bring **5+ years of freelance experience** delivering high-quality, custom development solutions. My work spans across various domains, allowing me to adapt rapidly to new technologies and scale low-level architecture to high-level system integrations.
 
 Previously, I engineered and managed the **Silent Horizon Minecraft Server**. What started as an intricate passion project evolved into a complex system requiring scalable infrastructure, community management, and robust backend plugin development. (The project has since been retired and is currently on sale).
 
@@ -38,15 +39,21 @@ You won't find a face reveal on my profile. I firmly align with the philosophy t
 
 <table width="100%">
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/DeepTerrorGG/Inferno-RT">🔥 Inferno-RT (Inference Runtime)</a></h3>
+      <p><b>Bare-Metal C++ Neural Network Inference Engine</b>. A dependency-free runtime and graph compiler built from scratch in modern C++20. Features custom SIMD optimization, AVX2/tiled processing via CPU backends, GPU acceleration via custom CUDA kernels, memory arenas, and ONNX DAG execution.</p>
+    </td>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/DeepTerrorGG/kali-ops-center">🛡️ Kali Ops Center</a></h3>
       <p><b>Autonomous AI Pentesting Platform</b> powered by Gemini 2.5 Flash Lite. Analyzes 100+ file formats with 37 specialized security tools. Features professional-grade integrations (VirusTotal, Shodan, Volatility 3) and deep MCP integration for complex reasoning and exploit research.</p>
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/DeepTerrorGG/autoquant_pipeline">⚡ AutoQuant AI</a></h3>
       <p><b>Professional LLM Fine-Tuning Platform</b>. An enterprise-grade pipeline with 30+ features using state-of-the-art QLoRA optimization and Unsloth acceleration. Includes 4-bit quantization, multi-GPU support, dynamic React frontend, and a built-in model marketplace.</p>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/DeepTerrorGG/deepterrorgg-portfolio-website">🪐 Personal Portfolio</a></h3>
       <p><b>Next.js 16 Web Application</b> built with Turbopack, Tailwind CSS, and sophisticated Anime.js animations. Deployed on Firebase App Hosting, featuring seamless Spotify API integrations, AI endpoints with Genkit, and premium glassmorphism aesthetics.</p>
     </td>
