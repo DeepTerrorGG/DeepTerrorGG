@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hi,%20I'm%20DeepTerrorGG&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Founder%20%26%20CEO%20@%20DeepTerrorGG%20%7C%20Creator%20of%20Inferno-RT&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=DeepTerrorGG&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Creator%20of%20Inferno-RT&descAlignY=55&descAlign=50" />
 </div>
 
 <h3 align="center">Founder & CEO of DeepTerrorGG • Systems Architect behind Inferno-RT</h3>
